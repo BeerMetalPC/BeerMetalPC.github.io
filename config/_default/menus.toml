@@ -32,9 +32,3 @@ pre = "bluesky"
 name = ""
 url = "https://bsky.app/profile/beermetalpc.com"
 weight = 4
-
-[[main]]
-name = "resume"
-title = "Resume"
-url = "/resume/"
-weight = 5

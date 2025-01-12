@@ -19,16 +19,3 @@ name = "tags"
 title = "Tags"
 url = "/tags/"
 weight = 2
-
-[[main]]
-name = "about"
-title = "About"
-url = "/about/"
-weight = 3
-
-[[main]]
-name = "bluesky"
-pre = "bluesky"
-name = ""
-url = "https://bsky.app/profile/beermetalpc.com"
-weight = 4
